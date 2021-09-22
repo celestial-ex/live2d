@@ -9,7 +9,7 @@
     "Motions": {
       "Idle":[
 		 {"File":"motions/Mgirl10_tingge.motion3.json"},
-		 {"File":"Mgirl10_stand_c.motion3.json"}
+		 {"File":"motions/Mgirl10_stand_c.motion3.json"}
 		],
 		"TapBody":[
 			{"File":"motions/Mgirl10_haixiu_a.motion3.json"},
